@@ -13,7 +13,6 @@ A Youtube video on working of our bot:
 https://www.youtube.com/watch?v=1IqFMeIc3ZY
 
 Links referred to complete this code:
-
-    1.To know the working of banking chatbot:
+   1.To know the working of banking chatbot:
       https://www.hdfcbank.com/personal/resources/learning-centre/digital-banking/chatbots-in-banking
     
