@@ -5,13 +5,16 @@ This is a program for chatbot
 2. The bot will greet and welcome the person
 3. Bot will ask what the user want to do, it will offer a choice of things based upon what the bot is designed for.
 4. It will respond to user questions appropriately.
-
 """
 from datetime import datetime
 
 def greet_and_introduce():
     print("Hi! I am banky bot, your personal assistant to help you with bank related queries.")
     print("May I know your name?")
+# adding new lines for git push test
+# first line
+# second line
+# Third line
 
 def get_timeofday_greeting():
     current_time = datetime.now()
